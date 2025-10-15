@@ -46,7 +46,7 @@ Full Stack Developer Internship (April 2025 – June 2025)
 ## 📫 Find me here!
 - 📸 Instagram: [@walravens.js](https://www.instagram.com/walravens.js)  
 - 💼 LinkedIn: [Stijn Walravens](https://www.linkedin.com)  
-- 🌐 [Portfolio]([https://www.linkedin.com](https://portfolio-swart-one-35.vercel.app/))
+- 🌐 [Portfolio](https://portfolio-swart-one-35.vercel.app)
 
 ---
 
