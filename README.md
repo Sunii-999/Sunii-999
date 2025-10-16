@@ -12,38 +12,8 @@ Upgraded the platform with new features and debugged existing functionalities us
 
 ---
 
-## 🎓 Education
-
-### Artevelde Hogeschool
-- 🧠 Programming (2023 – 2025)
-
-### Technische Instituut Don Bosco Halle
-- 📘 Grafische Multimedia (2013 – 2019)  
-- 💻 Interactive Media (2019 – 2020)
-
----
-
-## 🛠️ Tech & Tools
-**Web Development**  
-
-- Next.js  
-- React.js  
-- Node.js  
-- Express.js  
-- PHP  
-- Strapi  
-- CraftCMS  
-- Eleventy  
-- Tailwind CSS  
-
----
-
 ## 📫 Find me here!
 - 📸 Instagram: [@walravens.js](https://www.instagram.com/walravens.js)  
 - 💼 LinkedIn: [Stijn Walravens](https://www.linkedin.com)  
 - 🌐 [Portfolio](https://portfolio-swart-one-35.vercel.app)
 
----
-
-## ⭐️ Fun Fact
-I started being a creative 13 years ago!
