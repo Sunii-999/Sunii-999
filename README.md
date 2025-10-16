@@ -1,4 +1,4 @@
-# 👋 Hi there Sunii
+# 👋 Hi there, I am Sunii
 
 ## 💼 Who am I?
 I'm a full stack developer who enjoys coding projects that have a personal meaning or software that can help someone. I use tools like **React.js** / **Next.js** to build smooth and user-friendly digital experiences. 
@@ -13,7 +13,6 @@ Upgraded the platform with new features and debugged existing functionalities us
 ---
 
 ## 📫 Find me here!
-- 📸 Instagram: [@walravens.js](https://www.instagram.com/walravens.js)  
-- 💼 LinkedIn: [Stijn Walravens](https://www.linkedin.com)  
+- 💼 [LinkedIn](https://www.linkedin.com)  
 - 🌐 [Portfolio](https://portfolio-swart-one-35.vercel.app)
 
