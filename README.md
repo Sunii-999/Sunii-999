@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Stijn Walravens a.k.a. Sunii
 
-## 🎨 Full Stack Developer & Graphic Designer
-### 🇧🇪 Belgian / Native American
+## 🎨 Full Stack Developer
+### Belgian / Native American
 
 ---
 
@@ -15,6 +15,18 @@ When I’m not at the computer, you’ll probably find me gaming, enjoying a mov
 ## ✨ Experience
 ### 💻 Zoomers
 Full Stack Developer Internship (April 2025 – June 2025)
+Upgraded the platform with new features and debugged existing functionalities using PHP. Collaborated closely with web designers to ensure optimal UI/UX. Solely responsible for the portfolio feature update and optimized the sales flow in the back office.
+
+---
+
+## 🎓 Education
+
+### Artevelde Hogeschool
+- 🧠 Programming (2023 – 2025)
+
+### Technische Instituut Don Bosco Halle
+- 📘 Grafische Multimedia (2013 – 2019)  
+- 💻 Interactive Media (2019 – 2020)
 
 ---
 
@@ -30,16 +42,6 @@ Full Stack Developer Internship (April 2025 – June 2025)
 - CraftCMS  
 - Eleventy  
 - Tailwind CSS  
-
----
-
-## 🎓 Education
-### Technische Instituut Don Bosco Halle
-- 📘 Grafische Multimedia (2013 – 2019)  
-- 💻 Interactive Media (2019 – 2020)
-
-### Artevelde Hogeschool
-- 🧠 Programming (2023 – Present)
 
 ---
 
