@@ -1,14 +1,7 @@
-# 👋 Hi there, I'm Stijn Walravens a.k.a. Sunii
-
-## 🎨 Full Stack Developer
-### Belgian / Native American
-
----
+# 👋 Hi there Sunii
 
 ## 💼 Who am I?
-I'm a full stack developer who enjoys coding projects that have a personal meaning or software that can help someone. I use tools like **React.js** / **Next.js** to build smooth and user-friendly digital experiences. I also freelance as a developer and graphic designer.
-
-When I’m not at the computer, you’ll probably find me gaming, enjoying a movie marathon, or getting lost in a good book. Whether it’s pixels or code, I love crafting things that make people smile.
+I'm a full stack developer who enjoys coding projects that have a personal meaning or software that can help someone. I use tools like **React.js** / **Next.js** to build smooth and user-friendly digital experiences. 
 
 ---
 
