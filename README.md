@@ -1,7 +1,7 @@
 # 👋 Hi there, I am Sunii
 
 ## 💼 Who am I?
-I'm a full stack developer who enjoys coding projects that have a personal meaning or software that can help someone. I use tools like **React.js** / **Next.js** to build smooth and user-friendly digital experiences. 
+I'm a full stack developer who enjoys coding projects. I use tools like **React.js** / **Next.js**. 
 
 ---
 
@@ -10,7 +10,7 @@ I'm a full stack developer who enjoys coding projects that have a personal meani
 Full Stack Developer Internship 
 Upgraded the platform with new features and debugged existing functionalities using PHP. Collaborated closely with web designers to ensure optimal UI/UX. Solely responsible for the portfolio feature update and optimized the sales flow in the back office.
 
-### 💻 DRGT (April 2025 – June 2025)
+### 💻 DRGT (November 2025 – Present)
 Mobile FullStack Developer
 
 ---
