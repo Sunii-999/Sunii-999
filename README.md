@@ -5,10 +5,13 @@ I'm a full stack developer who enjoys coding projects that have a personal meani
 
 ---
 
-## ✨ Experience
-### 💻 Zoomers
-Full Stack Developer Internship (April 2025 – June 2025)
+## ✨ Experience 
+### 💻 Zoomers (April 2025 – June 2025)
+Full Stack Developer Internship 
 Upgraded the platform with new features and debugged existing functionalities using PHP. Collaborated closely with web designers to ensure optimal UI/UX. Solely responsible for the portfolio feature update and optimized the sales flow in the back office.
+
+### 💻 DRGT (April 2025 – June 2025)
+Mobile FullStack Developer
 
 ---
 
