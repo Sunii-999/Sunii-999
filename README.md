@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hey, I'm Sunii</h1>
 <p align="center">
   Developer who enjoys doing this as my main hoby.<br/>
-  Working mostly with <b>React.js</b> and <b>Next.js</b>, currently learning Rust
+  Working mostly with <b>React.js</b> and <b>Next.js</b>, currently learning <b>Rust</b>
 </p>
 
 <p align="center">
