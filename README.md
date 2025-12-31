@@ -1,7 +1,6 @@
 # Sunii
 
-## Who am I?
-I'm a full stack developer who enjoys coding projects. I use tools like **React.js** / **Next.js**. 
+Full stack developer who enjoys coding projects. I use tools like **React.js** / **Next.js**. 
 
 ---
 
