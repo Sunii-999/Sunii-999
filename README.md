@@ -51,8 +51,6 @@
   alt="Profile or project image"
   style="border-radius: 12px; max-width: 100%;"
 />
-
-    </td>
   </tr>
 </table>
 
