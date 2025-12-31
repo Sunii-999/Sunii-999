@@ -37,9 +37,8 @@
 
 ### 🧠 About me
 - Full Stack Developer
-- Enjoys clean UI, smooth UX, and solving tricky bugs
-- Likes upgrading existing systems just as much as building new ones
-- Always learning, always shipping 🚀
+- Studied programming and graphic design
+- I love learning about anything
 
     </td>
 
