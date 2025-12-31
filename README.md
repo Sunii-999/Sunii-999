@@ -45,8 +45,6 @@
     <!-- RIGHT COLUMN -->
     <td width="50%" valign="top" align="center">
 
-### 🖼️ Me / Project Image
-
 <!-- Portrait OR square friendly -->
 <img 
   src="https://i.pinimg.com/originals/cd/aa/5c/cdaa5c6dc969574ce27e514b4be9408e.gif" 
